@@ -1,4 +1,6 @@
 # Sistem Peminjaman Inventaris Sekolah Berbasis Web
+#Nama : Farid Hidayatulloh Tambunan
+#Nim  : 220320009
 
 Aplikasi ini adalah **sistem peminjaman inventaris sekolah berbasis web** yang dibangun menggunakan **Laravel** sebagai backend framework dan **Filament Admin Panel** sebagai antarmuka admin (petugas). Sistem ini dirancang agar **mudah digunakan**, **terstruktur**, dan **cocok untuk lingkungan sekolah**.
 
