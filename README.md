@@ -2,6 +2,10 @@
 # TUGAS UAS 
 # Nama : Farid Hidayatulloh Tambunan
 # Nim  : 220320009
+# Nama : Ahmad Dimas Maulana
+# Nim  : 23010220021
+# Nama : Maulana Yusuf Habibulloh
+# Nim  : 23010220006
 
 
 # Sistem Peminjaman Inventaris Sekolah Berbasis Web
